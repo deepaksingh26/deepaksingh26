@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepak64386012" target="blank"><img src="https://img.shields.io/twitter/follow/deepak64386012?logo=twitter&style=for-the-badge" alt="deepak64386012" /></a> </p>
 
-- 🌱 I’m currently learning **react-redux-firebase**
+- 🌱 I’m currently learning **Socket.io**
 
 - 💬 Ask me about **react c c++ html css React.JS Node.JS Express.JS MongoDB**
 
