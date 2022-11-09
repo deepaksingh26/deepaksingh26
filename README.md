@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react-redux-firebase**
 
-- 💬 Ask me about **react c c++ html css**
+- 💬 Ask me about **react c c++ html css React.JS Node.JS Express.JS MongoDB**
 
 - 📫 How to reach me **deepakthakurnita@gmail.com**
 
